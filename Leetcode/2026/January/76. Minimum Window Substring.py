@@ -1,4 +1,7 @@
-
+# Problem link: https://leetcode.com/problems/minimum-window-substring/
+# Time Complexity: O(n), Space Complexity: O(n)
+# Approach: Use a dictionary to count the frequency of each character in the target string
+# Data Structure: Dictionary, Algorithm: Sliding Window
 
 from collections import defaultdict
 
